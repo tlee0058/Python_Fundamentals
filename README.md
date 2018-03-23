@@ -7,3 +7,4 @@ Difficulty level: Basic
 5) Write a program that takes a list and prints a message for each element in the list, based on that element's data type.
 6) Find Characters Write a program that takes a list of strings and a string containing a single character, and prints a new list of all the strings containing that character.
 7) Assignment: Checkerboard Write a program that prints a 'checkerboard' pattern to the console.
+![alt tag](https://user-images.githubusercontent.com/32435667/37843591-c43fcb2c-2e9b-11e8-94e8-cfa8e4110cdd.png)
